@@ -4,7 +4,7 @@
     "description": "Tracks the time you spend in each website",
     "version": "1.0",
     "action": {
-      "default_popup": "popup.html",
-      "default_icon": "def_icon.png"
+      "default_popup": "popups/popup.html",
+      "default_icon": "assets/def_icon.png"
     }
   }
