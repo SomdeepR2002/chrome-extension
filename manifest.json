@@ -1,6 +1,10 @@
 {
-    "name": "Website Time Tracker",
-    "version": "1.0.0",
-    "description": "My extension doesn't do anything yet!",
-    "manifest_version": 3
-}
+    "manifest_version": 3,
+    "name": "Hello Extensions",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "def_icon.png"
+    }
+  }
