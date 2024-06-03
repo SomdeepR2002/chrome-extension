@@ -1,4 +1,4 @@
-console.log("This is a popup")
+console.log("This is popup.js")
 const websiteData = [
     {name:"www.randomsite1.com",timeSpent:"3.5 hours"},
     {name:"www.randomsite2.com", timeSpent:"2 hours"}
